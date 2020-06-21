@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Apple Iphone",
+      "price": "100000",
+      "img": "https://image.flaticon.com/icons/png/512/256/256451.png"
+    },
+
+    {
+      "id": "2",
+      "name": "Samsung Galaxy",
+      "price": "40000",
+      "img": "https://image.flaticon.com/icons/png/512/256/256451.png"
+    },
+    {
+      "id": "3",
+      "name": "Read Me",
+      "price": "40000",
+      "img": "https://image.flaticon.com/icons/png/512/256/256451.png"
+    }
+  ]
+}
