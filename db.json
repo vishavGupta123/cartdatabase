@@ -18,6 +18,12 @@
       "name": "Read Me",
       "price": "40000",
       "img": "https://image.flaticon.com/icons/png/512/256/256451.png"
+    },
+    {
+      "id": "4",
+      "name": "Google Pixel",
+      "price": "140000",
+      "img": "https://image.flaticon.com/icons/png/512/256/256451.png"
     }
   ]
 }
