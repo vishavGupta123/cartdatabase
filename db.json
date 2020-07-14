@@ -4,14 +4,14 @@
       "id": "1",
       "name": "Apple Iphone",
       "price": "100000",
-      "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F51kGDXeFZKL._SX466_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FApple-iPhone-11-64GB-Black%2Fdp%2FB07XVMDRZY&tbnid=ceENFmVd1ZDNOM&vet=12ahUKEwi4o6_uycvqAhWSoekKHXeiCi0QMygIegUIARDmAQ..i&docid=zXbREAwqKnk7NM&w=466&h=466&q=apple%20iphone%20image&ved=2ahUKEwi4o6_uycvqAhWSoekKHXeiCi0QMygIegUIARDmAQ"
+      "img": "https://static.toiimg.com/thumb/msid-61654288,width-640,resizemode-4/61654288.jpg"
     },
 
     {
       "id": "2",
       "name": "Samsung Galaxy",
       "price": "40000",
-      "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.movertix.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Fimage%2F1200x%2Fs%2Fa%2Fsamsung-galaxy-s10-plus-8gb128gb-blanco-dual-sim-g975-8801643746896.jpg&imgrefurl=https%3A%2F%2Fwww.movertix.com%2Fen%2Fsamsung-galaxy-s10-plus-dual-sim-prism-white-128gb-and-8gb-ram-sm-g975f-ds.html&tbnid=EsdpfsjlbZ_fwM&vet=12ahUKEwiAob7iy8vqAhWGD3IKHRpsAeAQMygaegUIARD1Ag..i&docid=HYTkfOFANLUtDM&w=1200&h=1200&q=samsung%20galaxy%20s10&ved=2ahUKEwiAob7iy8vqAhWGD3IKHRpsAeAQMygaegUIARD1Ag"
+      "img": "https://images-na.ssl-images-amazon.com/images/I/61YVqHdFRxL._AC_SX679_.jpg"
     },
     {
       "id": "3",
