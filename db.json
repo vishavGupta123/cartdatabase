@@ -4,6 +4,7 @@
       "id": "1",
       "name": "Apple Iphone",
       "price": "100000",
+      "description": "This is an apple Iphone",
       "img": "https://static.toiimg.com/thumb/msid-61654288,width-640,resizemode-4/61654288.jpg"
     },
 
@@ -11,18 +12,21 @@
       "id": "2",
       "name": "Samsung Galaxy",
       "price": "40000",
+      "description": "This is a samsung galaxy phone",
       "img": "https://images-na.ssl-images-amazon.com/images/I/61YVqHdFRxL._AC_SX679_.jpg"
     },
     {
       "id": "3",
       "name": "Read Me",
       "price": "40000",
+      "description": "This is the Read Me Phone",
       "img": "https://image.flaticon.com/icons/png/512/256/256451.png"
     },
     {
       "id": "4",
       "name": "Google Pixel",
       "price": "140000",
+      "description": "This is Google pixel phone",
       "img": "https://image.flaticon.com/icons/png/512/256/256451.png"
     }
   ]
